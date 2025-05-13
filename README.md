@@ -29,7 +29,8 @@ The "Bot":
 - `config.ini` — tweak hotkeys and screen coordinates
 - `Images` — gear reference icons (`Radar.jpg`, `Gun.jpg`, etc.)
 
-<pre> Folder Structure: Remove Gear Folder
+Folder Structure: Remove Gear Folder
+<pre>
 ├── remove_gear_bot.exe     ✅ run this
 ├── config.ini              ✅ editable
 └── Images
@@ -38,7 +39,7 @@ The "Bot":
     ├── Gun.jpg
     ├── Chip.jpg
     ├── remove.png
-    └── next.png    
+    └── next.png
  </pre>
 ---
 
