@@ -29,18 +29,8 @@ The "Bot":
 - `config.ini` — tweak hotkeys and screen coordinates
 - `Images` — gear reference icons (`Radar.jpg`, `Gun.jpg`, etc.)
 
-
-Folder Structure:
-Remove Gear Folder
-├── remove_gear_bot.exe     ✅ run this
-├── config.ini              ✅ edit this
-└── Images
-    ├── Radar.jpg
-    ├── Armor.jpg
-    ├── Gun.jpg
-    ├── Chip.jpg
-    ├── remove.png
-    └── next.png
+Folder Structure: 
+<pre> ```plaintext Remove Gear Folder ├── remove_gear_bot.exe ✅ run this ├── config.ini ✅ editable └── Images ├── Radar.jpg ├── Armor.jpg ├── Gun.jpg ├── Chip.jpg ├── remove.png └── next.png ``` </pre>
     
 ---
 
@@ -78,3 +68,4 @@ If the default images don’t work:
 - Make sure your game window stays in the same spot/size.
 - By default this only works for UR/Gold gear.
 - If detection fails, assume the image size/style differs — take your own screenshot
+- Right click the exe - properties - compatibility - run as admin
