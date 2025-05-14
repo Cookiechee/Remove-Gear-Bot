@@ -2,6 +2,8 @@ This is a tool that automates removing gear from characters in Last War: Surviva
 
 🔧 How It Works
 
+![Demo of the bot in action](./demo.gif)
+
 The "Bot":
 - Searches for equipped gear using reference images
 - Clicks the gear and presses the remove button
